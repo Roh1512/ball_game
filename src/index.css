@@ -16,6 +16,7 @@ body {
   min-height: 100vh;
   gap: 10px;
   background-color: green;
+  padding: 10px;
 }
 
 .ballContainer {
